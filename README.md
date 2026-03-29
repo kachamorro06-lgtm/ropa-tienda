@@ -3,7 +3,7 @@
 Inicio de sistema
 
 
-inicio de sesion 
+inicio de sesion  nueva
 Aqui se agregara el inicio de sesion del sistema
 
 Sistema version 5
