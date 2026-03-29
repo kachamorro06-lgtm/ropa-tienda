@@ -6,3 +6,10 @@ Aqui se agregara el inicio de sesion del sistema
 
 Sistema version 5
 linea 7
+
+
+
+TIPO API
+REST
+
+
